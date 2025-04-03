@@ -34,7 +34,7 @@ author: Karen Buddendeck
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: digital-collection-trees
+metadata: digital-collection-trees Sheet 1
 
 ##########
 # Site/Organization Branding 
